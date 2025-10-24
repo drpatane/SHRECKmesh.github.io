@@ -1,4 +1,4 @@
-# SHRECKmesh.github.io
+# SHRECKmesh
 Houston by Night
 
 
