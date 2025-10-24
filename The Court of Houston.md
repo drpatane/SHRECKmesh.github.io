@@ -1,3 +1,7 @@
+layout: page
+title: "Court of Houston"
+permalink: /Court
+
 **Prince**: [[Castor Augustus]]
 **Seneschal**: None appointed, formerly held by Castor Augustus 
 **Sheriff:** [[Violet Rosenberg]] 
